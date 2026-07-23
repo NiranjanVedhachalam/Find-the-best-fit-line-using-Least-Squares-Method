@@ -48,10 +48,11 @@ plt.show()
 ```
 
 ## Output:
-
+```
 [2.8 3.4 4.  4.6 5.2]
 
 0.6 2.2
+```
 
 
 <img width="547" height="413" alt="download" src="https://github.com/user-attachments/assets/21add465-1da1-4ec5-898a-bc831f04e39c" />
